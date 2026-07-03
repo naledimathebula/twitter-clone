@@ -95,7 +95,7 @@
     padding:0 5px;margin-left:2px;
   }
   .tweet-btn{
-    background:var(--accent);color:#fff;border:none;border-radius:999px;font-weight:700;
+    background:black;color:#dad1d1;border:none;border-radius:999px;font-weight:700;
     font-size:17px;padding:14px 0;width:90%;margin:16px 0;
   }
   .tweet-btn:hover{background:var(--accent-hover);}
